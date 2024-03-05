@@ -1,0 +1,38 @@
+[
+    {
+        "name": "John Doe",
+        "start_time": {
+            "hour": 8,
+            "minute": 10
+        },
+        "duration": 15,
+        "status": "confirmed"
+    },
+    {
+        "name": "John Doe",
+        "start_time": {
+            "hour": 9,
+            "minute": 15
+        },
+        "duration": 30,
+        "status": "new"
+    },
+    {
+        "name": "John Doe",
+        "start_time": {
+            "hour": 9,
+            "minute": 15
+        },
+        "duration": 90,
+        "status": "new"
+    },
+    {
+        "name": "John Doe",
+        "start_time": {
+            "hour": 12,
+            "minute": 0
+        },
+        "duration": 180,
+        "status": "new"
+    }
+]
